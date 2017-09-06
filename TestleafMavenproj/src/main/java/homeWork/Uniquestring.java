@@ -7,7 +7,7 @@ public class Uniquestring {
 	public static void main(String[] args) {
 
 		
-		
+		//FCommit chnages
 		
 		Scanner i = new Scanner(System.in);
 		String input=i.next();

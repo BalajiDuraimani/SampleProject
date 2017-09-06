@@ -11,6 +11,10 @@ public class Pasal {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+	
+		String as = "fhfj";
+		
+		
 		
 /*		
 		 int rows, i, k, number=1, j;
